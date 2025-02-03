@@ -17,16 +17,16 @@ The **GPA Calculator** is a desktop application designed to help students manage
 ![Main Screen](https://i.imgur.com/jaVyvV7.png)
 ![Add Course](https://i.imgur.com/PffuHaG.png)
 
+## How to download
+You can download the latest version of the GPA Calculator app from the **Releases** section. Simply, download the ZIP file, and then extract it.
 
 ## Usage
-
 - **Add Courses**: Navigate to the "Add Course" section and input course details (e.g., course name, credit hours, grade).
 - **Calculate GPA**: View the calculated GPA for the current semester.
 - **Track CGPA**: Monitor your cumulative GPA across all semesters.
 - **Edit/Delete**: Modify or remove courses as needed.
 
 ## Technologies Used
-
 - **Programming Language**: C#
 - **Framework**: .NET Framework
 - **UI Libraries**: Windows Forms, Bunifu UI
