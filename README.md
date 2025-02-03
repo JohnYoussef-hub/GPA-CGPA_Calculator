@@ -13,10 +13,9 @@ The **GPA Calculator** is a desktop application designed to help students manage
 - **User-Friendly Interface**: Intuitive and clean design for seamless navigation.
 - **Data Persistence**: Save and load data automatically for uninterrupted usage.
 
-## Screenshots (Optional)
-You can add a section for screenshots to visually showcase the application. For example:
-![Main Screen](https://imgur.com/a/ALmBnVl)
-![Add Course](https://imgur.com/a/35VbgpW)
+## Screenshots 
+![Main Screen](https://i.imgur.com/oOjJ2ef.png)
+![Add Course](https://i.imgur.com/E2jdzLM.png)
 
 
 ## Usage
