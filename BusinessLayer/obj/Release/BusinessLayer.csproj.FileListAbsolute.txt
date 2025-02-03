@@ -1,0 +1,12 @@
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\obj\Release\Business.EA331CBA.Up2Date
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\obj\Release\BusinessLayer.pdb
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\bin\Release\System.Data.SQLite.dll
+C:\Users\johnm\source\repos\GPA Calc\BusinessLayer\bin\Release\System.Data.SQLite.xml

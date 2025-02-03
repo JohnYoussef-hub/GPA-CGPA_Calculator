@@ -1,0 +1,16 @@
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\EntityFramework.dll
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\System.Data.SQLite.dll
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\EntityFramework.xml
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\bin\Release\System.Data.SQLite.xml
+C:\Users\johnm\source\repos\GPA Calc\DataAccessLayer\obj\Release\DataAcce.E67BD773.Up2Date

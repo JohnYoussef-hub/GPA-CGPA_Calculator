@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPA Calc", "GPA Calc\GPA Calc.csproj", "{44E648AC-FC63-43C6-A7D4-4BD84616B39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{9E7EE4DF-05F0-4AF2-A5C5-85FA8FA90404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{B19A7B84-8006-4035-9A60-10C9D8390010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E648AC-FC63-43C6-A7D4-4BD84616B39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E648AC-FC63-43C6-A7D4-4BD84616B39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E648AC-FC63-43C6-A7D4-4BD84616B39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E648AC-FC63-43C6-A7D4-4BD84616B39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7EE4DF-05F0-4AF2-A5C5-85FA8FA90404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7EE4DF-05F0-4AF2-A5C5-85FA8FA90404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7EE4DF-05F0-4AF2-A5C5-85FA8FA90404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7EE4DF-05F0-4AF2-A5C5-85FA8FA90404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19A7B84-8006-4035-9A60-10C9D8390010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19A7B84-8006-4035-9A60-10C9D8390010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19A7B84-8006-4035-9A60-10C9D8390010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19A7B84-8006-4035-9A60-10C9D8390010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

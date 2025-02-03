@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|c:\\users\\johnm\\source\\repos\\gpa calc\\gpa calc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|solutionrelative:gpa calc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|c:\\users\\johnm\\source\\repos\\gpa calc\\gpa calc\\frmaddcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|solutionrelative:gpa calc\\frmaddcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|c:\\users\\johnm\\source\\repos\\gpa calc\\gpa calc\\user controls\\ctrladdcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|solutionrelative:gpa calc\\user controls\\ctrladdcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7EE4DF-05F0-4AF2-A5C5-85FA8FA90404}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\johnm\\source\\repos\\gpa calc\\dataaccesslayer\\clsappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7EE4DF-05F0-4AF2-A5C5-85FA8FA90404}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|c:\\users\\johnm\\source\\repos\\gpa calc\\gpa calc\\user controls\\ctrladdcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|solutionrelative:gpa calc\\user controls\\ctrladdcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19A7B84-8006-4035-9A60-10C9D8390010}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\johnm\\source\\repos\\gpa calc\\businesslayer\\clsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19A7B84-8006-4035-9A60-10C9D8390010}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\clsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|c:\\users\\johnm\\source\\repos\\gpa calc\\gpa calc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E648AC-FC63-43C6-A7D4-4BD84616B39A}|GPA Calc\\GPA Calc.csproj|solutionrelative:gpa calc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsApp.cs",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\BusinessLayer\\clsApp.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\clsApp.cs",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\BusinessLayer\\clsApp.cs",
+              "RelativeToolTip": "BusinessLayer\\clsApp.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAABEwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:19:23.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\frmMain.cs",
+              "RelativeDocumentMoniker": "GPA Calc\\frmMain.cs",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\frmMain.cs",
+              "RelativeToolTip": "GPA Calc\\frmMain.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAADwv90AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:18:55.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrlAddCourse.cs",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\User Controls\\ctrlAddCourse.cs",
+              "RelativeDocumentMoniker": "GPA Calc\\User Controls\\ctrlAddCourse.cs",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\User Controls\\ctrlAddCourse.cs",
+              "RelativeToolTip": "GPA Calc\\User Controls\\ctrlAddCourse.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAywIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:18:50.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsAppData.cs",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\DataAccessLayer\\clsAppData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\clsAppData.cs",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\DataAccessLayer\\clsAppData.cs",
+              "RelativeToolTip": "DataAccessLayer\\clsAppData.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAxwPkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:50:03.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ctrlAddCourse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\User Controls\\ctrlAddCourse.cs",
+              "RelativeDocumentMoniker": "GPA Calc\\User Controls\\ctrlAddCourse.cs",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\User Controls\\ctrlAddCourse.cs [Design]",
+              "RelativeToolTip": "GPA Calc\\User Controls\\ctrlAddCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:26:39.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddCourse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\frmAddCourse.cs",
+              "RelativeDocumentMoniker": "GPA Calc\\frmAddCourse.cs",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\frmAddCourse.cs [Design]",
+              "RelativeToolTip": "GPA Calc\\frmAddCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:26:37.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\frmMain.cs",
+              "RelativeDocumentMoniker": "GPA Calc\\frmMain.cs",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\GPA Calc\\GPA Calc\\frmMain.cs [Design]",
+              "RelativeToolTip": "GPA Calc\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:19:46.269Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
