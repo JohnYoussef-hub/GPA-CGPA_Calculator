@@ -14,8 +14,8 @@ The **GPA Calculator** is a desktop application designed to help students manage
 - **Data Persistence**: Save and load data automatically for uninterrupted usage.
 
 ## Screenshots 
-![Main Screen](https://i.imgur.com/oOjJ2ef.png)
-![Add Course](https://i.imgur.com/E2jdzLM.png)
+![Main Screen](https://i.imgur.com/jaVyvV7.png)
+![Add Course](https://i.imgur.com/PffuHaG.png)
 
 
 ## Usage
