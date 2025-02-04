@@ -1,4 +1,4 @@
-# GPA Calculator Application
+# GPA & CGPA Calculator Application
 
 ## Overview
 The **GPA Calculator** is a desktop application designed to help students manage their academic performance by calculating **GPA (Grade Point Average)** and **CGPA (Cumulative Grade Point Average)**. The app allows users to add, edit, and delete courses, view semester-wise GPAs, and track their overall CGPA. It is a user-friendly tool that simplifies academic tracking and planning.
