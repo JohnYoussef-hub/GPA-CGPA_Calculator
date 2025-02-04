@@ -51,7 +51,7 @@ You can download the latest version of the GPA Calculator app from the **Release
 - **Framework**: .NET Framework
 - **UI Libraries**: Windows Forms, Bunifu UI
 - **Databases**: SQL Server, SQLite
-- **Data Access**: ADO.NET (SqlConnection, SqlCommand, etc.)
+- **Data Access**: ADO.NET
 
 ---
 
