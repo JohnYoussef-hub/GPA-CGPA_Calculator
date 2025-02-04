@@ -36,7 +36,7 @@ The **GPA Calculator** is a desktop application designed to help students manage
 You can download the latest version of the GPA Calculator app from the **Releases** section. Simply, download the ZIP file, and then extract it.
 - **For the best experience:** install the fonts in the Fonts folder above
 
-### **Warning**: You may see a **SmartScreen warning** when running the app for the **first time**. This is expected for new applications.. click "More info" then "Run anyway". don't worry, **it is completely safe to proceed**.
+### **--Warning**: You may see a **SmartScreen warning** when running the app for the **first time**. This is expected for new applications.. click "More info" then "Run anyway". don't worry, **it is completely safe to proceed**.
 
 
 
