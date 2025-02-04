@@ -34,10 +34,11 @@ The **GPA Calculator** is a desktop application designed to help students manage
 
 ## How to download
 You can download the latest version of the GPA Calculator app from the **Releases** section. Simply, download the ZIP file, and then extract it.
+- **For the best experience:** install the fonts in the Fonts folder above
 
 ### **You may see a SmartScreen warning when running the app for the first time. This is expected for new applications.. click "More info" then "Run anyway". dont worry it is completely safe to proceed.**
 
-- **For the best experience:** install the fonts in the Fonts folder above
+
 
 ## Usage
 - **Add Courses**: Navigate to the "Add Course" section and input course details (e.g., course name, credit hours, grade).
