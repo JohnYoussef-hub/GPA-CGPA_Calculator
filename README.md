@@ -3,6 +3,10 @@
 ## Overview
 The **GPA Calculator** is a desktop application designed to help students manage their academic performance by calculating **GPA (Grade Point Average)** and **CGPA (Cumulative Grade Point Average)**. The app allows users to add, edit, and delete courses, view semester-wise GPAs, and track their overall CGPA. It is a user-friendly tool that simplifies academic tracking and planning.
 
+## Screenshots 
+![Main Screen](https://i.imgur.com/jaVyvV7.png)
+![Add Course](https://i.imgur.com/PffuHaG.png)
+
 ## Features
 - **Semester Management**: View and manage courses for each semester.
 - **GPA Calculation**: Calculate GPA for individual semesters.
@@ -12,10 +16,6 @@ The **GPA Calculator** is a desktop application designed to help students manage
 - **Database Integration**: Store and retrieve course data using SQL Server or SQLite (in this version) databases.
 - **User-Friendly Interface**: Intuitive and clean design for seamless navigation.
 - **Data Persistence**: Save and load data automatically for uninterrupted usage.
-
-## Screenshots 
-![Main Screen](https://i.imgur.com/jaVyvV7.png)
-![Add Course](https://i.imgur.com/PffuHaG.png)
 
 ## How to download
 You can download the latest version of the GPA Calculator app from the **Releases** section. Simply, download the ZIP file, and then extract it.
