@@ -32,6 +32,3 @@ You can download the latest version of the GPA Calculator app from the **Release
 - **UI Libraries**: Windows Forms, Bunifu UI
 - **Databases**: SQL Server, SQLite
 - **Data Access**: ADO.NET (SqlConnection, SqlCommand, etc.)
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
