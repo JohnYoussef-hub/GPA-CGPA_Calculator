@@ -50,7 +50,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
             this.panel1.Controls.Add(this.lblMain);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -62,23 +62,23 @@
             // 
             this.lblMain.AutoSize = true;
             this.lblMain.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblMain.Font = new System.Drawing.Font("Couture", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMain.Font = new System.Drawing.Font("Arial Black", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMain.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
-            this.lblMain.Location = new System.Drawing.Point(312, 23);
+            this.lblMain.Location = new System.Drawing.Point(301, 19);
             this.lblMain.Name = "lblMain";
-            this.lblMain.Size = new System.Drawing.Size(213, 29);
+            this.lblMain.Size = new System.Drawing.Size(233, 41);
             this.lblMain.TabIndex = 4;
-            this.lblMain.Text = "Add Course";
+            this.lblMain.Text = "ADD COURSE";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label1.Font = new System.Drawing.Font("Cocogoose ProTrial", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Verdana", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.label1.Location = new System.Drawing.Point(241, 103);
+            this.label1.Location = new System.Drawing.Point(247, 103);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(181, 27);
+            this.label1.Size = new System.Drawing.Size(175, 25);
             this.label1.TabIndex = 5;
             this.label1.Text = "Course Name:";
             // 
@@ -86,11 +86,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label3.Font = new System.Drawing.Font("Cocogoose ProTrial", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Verdana", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.label3.Location = new System.Drawing.Point(352, 171);
+            this.label3.Location = new System.Drawing.Point(358, 171);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(182, 27);
+            this.label3.Size = new System.Drawing.Size(176, 25);
             this.label3.TabIndex = 7;
             this.label3.Text = "Course Hours:";
             // 
@@ -167,7 +167,7 @@
             this.drpGrade.FillDropDown = true;
             this.drpGrade.FillIndicator = false;
             this.drpGrade.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.drpGrade.Font = new System.Drawing.Font("CocogooseProTrial Semilight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.drpGrade.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.drpGrade.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
             this.drpGrade.FormattingEnabled = true;
             this.drpGrade.Icon = null;
@@ -205,11 +205,11 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label4.Font = new System.Drawing.Font("Cocogoose ProTrial", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Verdana", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.label4.Location = new System.Drawing.Point(639, 171);
+            this.label4.Location = new System.Drawing.Point(645, 171);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(92, 27);
+            this.label4.Size = new System.Drawing.Size(90, 25);
             this.label4.TabIndex = 9;
             this.label4.Text = "Grade:";
             // 
@@ -270,11 +270,11 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label5.Font = new System.Drawing.Font("Cocogoose ProTrial", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Font = new System.Drawing.Font("Verdana", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.label5.Location = new System.Drawing.Point(24, 171);
+            this.label5.Location = new System.Drawing.Point(30, 171);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(223, 27);
+            this.label5.Size = new System.Drawing.Size(218, 25);
             this.label5.TabIndex = 12;
             this.label5.Text = "Course Semester:";
             // 
@@ -289,7 +289,7 @@
             this.btnAdd.AutoSizeLeftIcon = true;
             this.btnAdd.AutoSizeRightIcon = true;
             this.btnAdd.BackColor = System.Drawing.Color.Transparent;
-            this.btnAdd.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
+            this.btnAdd.BackColor1 = System.Drawing.Color.DarkSlateBlue;
             this.btnAdd.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnAdd.BackgroundImage")));
             this.btnAdd.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btnAdd.ButtonText = "Add";
@@ -307,7 +307,7 @@
             this.btnAdd.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
             this.btnAdd.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btnAdd.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btnAdd.Font = new System.Drawing.Font("CocogooseProTrial Semilight", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAdd.Font = new System.Drawing.Font("Trebuchet MS", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAdd.ForeColor = System.Drawing.Color.White;
             this.btnAdd.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnAdd.IconLeftCursor = System.Windows.Forms.Cursors.Default;
@@ -318,10 +318,10 @@
             this.btnAdd.IconRightCursor = System.Windows.Forms.Cursors.Default;
             this.btnAdd.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
             this.btnAdd.IconSize = 25;
-            this.btnAdd.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
+            this.btnAdd.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
             this.btnAdd.IdleBorderRadius = 1;
             this.btnAdd.IdleBorderThickness = 1;
-            this.btnAdd.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
+            this.btnAdd.IdleFillColor = System.Drawing.Color.DarkSlateBlue;
             this.btnAdd.IdleIconLeftImage = null;
             this.btnAdd.IdleIconRightImage = null;
             this.btnAdd.IndicateFocus = false;
@@ -343,11 +343,11 @@
             this.btnAdd.onHoverState.ForeColor = System.Drawing.Color.NavajoWhite;
             this.btnAdd.onHoverState.IconLeftImage = null;
             this.btnAdd.onHoverState.IconRightImage = null;
-            this.btnAdd.OnIdleState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
+            this.btnAdd.OnIdleState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
             this.btnAdd.OnIdleState.BorderRadius = 1;
             this.btnAdd.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btnAdd.OnIdleState.BorderThickness = 1;
-            this.btnAdd.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
+            this.btnAdd.OnIdleState.FillColor = System.Drawing.Color.DarkSlateBlue;
             this.btnAdd.OnIdleState.ForeColor = System.Drawing.Color.White;
             this.btnAdd.OnIdleState.IconLeftImage = null;
             this.btnAdd.OnIdleState.IconRightImage = null;

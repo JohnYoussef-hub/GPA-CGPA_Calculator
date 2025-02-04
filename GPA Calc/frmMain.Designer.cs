@@ -190,12 +190,11 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
             this.label1.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label1.Font = new System.Drawing.Font("LEMON MILK Bold", 24F, ((System.Drawing.FontStyle)(((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic) 
-                | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Arial Black", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
             this.label1.Location = new System.Drawing.Point(281, 373);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(112, 46);
+            this.label1.Size = new System.Drawing.Size(114, 45);
             this.label1.TabIndex = 5;
             this.label1.Text = "GPA: ";
             // 
@@ -204,11 +203,11 @@
             this.lblGPA.AutoSize = true;
             this.lblGPA.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
             this.lblGPA.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblGPA.Font = new System.Drawing.Font("LEMON MILK Bold", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGPA.Font = new System.Drawing.Font("Consolas", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
-            this.lblGPA.Location = new System.Drawing.Point(375, 373);
+            this.lblGPA.Location = new System.Drawing.Point(380, 376);
             this.lblGPA.Name = "lblGPA";
-            this.lblGPA.Size = new System.Drawing.Size(95, 46);
+            this.lblGPA.Size = new System.Drawing.Size(79, 43);
             this.lblGPA.TabIndex = 18;
             this.lblGPA.Text = "###";
             // 
@@ -217,11 +216,11 @@
             this.lblCGPA.AutoSize = true;
             this.lblCGPA.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
             this.lblCGPA.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblCGPA.Font = new System.Drawing.Font("LEMON MILK Bold", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCGPA.Font = new System.Drawing.Font("Consolas", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
-            this.lblCGPA.Location = new System.Drawing.Point(756, 373);
+            this.lblCGPA.Location = new System.Drawing.Point(761, 376);
             this.lblCGPA.Name = "lblCGPA";
-            this.lblCGPA.Size = new System.Drawing.Size(95, 46);
+            this.lblCGPA.Size = new System.Drawing.Size(79, 43);
             this.lblCGPA.TabIndex = 20;
             this.lblCGPA.Text = "###";
             // 
@@ -230,12 +229,11 @@
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
             this.label5.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label5.Font = new System.Drawing.Font("LEMON MILK Bold", 24F, ((System.Drawing.FontStyle)(((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic) 
-                | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Font = new System.Drawing.Font("Arial Black", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
             this.label5.Location = new System.Drawing.Point(640, 373);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(135, 46);
+            this.label5.Size = new System.Drawing.Size(139, 45);
             this.label5.TabIndex = 19;
             this.label5.Text = "CGPA: ";
             // 
@@ -243,11 +241,11 @@
             // 
             this.lblSemesterName.AutoSize = true;
             this.lblSemesterName.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblSemesterName.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic);
+            this.lblSemesterName.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSemesterName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
-            this.lblSemesterName.Location = new System.Drawing.Point(215, 9);
+            this.lblSemesterName.Location = new System.Drawing.Point(213, 12);
             this.lblSemesterName.Name = "lblSemesterName";
-            this.lblSemesterName.Size = new System.Drawing.Size(43, 21);
+            this.lblSemesterName.Size = new System.Drawing.Size(36, 19);
             this.lblSemesterName.TabIndex = 5;
             this.lblSemesterName.Text = "###";
             // 
@@ -255,11 +253,11 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label6.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic);
+            this.label6.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic);
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
             this.label6.Location = new System.Drawing.Point(684, 9);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(104, 21);
+            this.label6.Size = new System.Drawing.Size(108, 19);
             this.label6.TabIndex = 22;
             this.label6.Text = "# Courses: ";
             // 
@@ -267,11 +265,11 @@
             // 
             this.lblCoursesCount.AutoSize = true;
             this.lblCoursesCount.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblCoursesCount.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCoursesCount.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic);
             this.lblCoursesCount.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
-            this.lblCoursesCount.Location = new System.Drawing.Point(782, 10);
+            this.lblCoursesCount.Location = new System.Drawing.Point(779, 10);
             this.lblCoursesCount.Name = "lblCoursesCount";
-            this.lblCoursesCount.Size = new System.Drawing.Size(35, 18);
+            this.lblCoursesCount.Size = new System.Drawing.Size(36, 19);
             this.lblCoursesCount.TabIndex = 23;
             this.lblCoursesCount.Text = "###";
             // 
@@ -332,8 +330,8 @@
             this.btnAdd.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
             this.btnAdd.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btnAdd.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btnAdd.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAdd.ForeColor = System.Drawing.Color.White;
+            this.btnAdd.Font = new System.Drawing.Font("Trebuchet MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAdd.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btnAdd.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnAdd.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btnAdd.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -373,7 +371,7 @@
             this.btnAdd.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btnAdd.OnIdleState.BorderThickness = 1;
             this.btnAdd.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btnAdd.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btnAdd.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btnAdd.OnIdleState.IconLeftImage = null;
             this.btnAdd.OnIdleState.IconRightImage = null;
             this.btnAdd.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -407,7 +405,7 @@
             this.btn10.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn10.BackgroundImage")));
             this.btn10.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn10.ButtonText = "Semester 10";
+            this.btn10.ButtonText = "SEMESTER 10";
             this.btn10.ButtonTextMarginLeft = 0;
             this.btn10.ColorContrastOnClick = 45;
             this.btn10.ColorContrastOnHover = 45;
@@ -423,8 +421,8 @@
             this.btn10.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn10.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn10.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn10.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn10.ForeColor = System.Drawing.Color.White;
+            this.btn10.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn10.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn10.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn10.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn10.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -464,7 +462,7 @@
             this.btn10.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn10.OnIdleState.BorderThickness = 1;
             this.btn10.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btn10.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btn10.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn10.OnIdleState.IconLeftImage = null;
             this.btn10.OnIdleState.IconRightImage = null;
             this.btn10.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -499,7 +497,7 @@
             this.btn9.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn9.BackgroundImage")));
             this.btn9.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn9.ButtonText = "Semester 9";
+            this.btn9.ButtonText = "SEMESTER 9";
             this.btn9.ButtonTextMarginLeft = 0;
             this.btn9.ColorContrastOnClick = 45;
             this.btn9.ColorContrastOnHover = 45;
@@ -515,8 +513,8 @@
             this.btn9.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn9.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn9.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn9.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn9.ForeColor = System.Drawing.Color.White;
+            this.btn9.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn9.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn9.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn9.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn9.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -556,7 +554,7 @@
             this.btn9.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn9.OnIdleState.BorderThickness = 1;
             this.btn9.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btn9.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btn9.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn9.OnIdleState.IconLeftImage = null;
             this.btn9.OnIdleState.IconRightImage = null;
             this.btn9.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -591,7 +589,7 @@
             this.btn8.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn8.BackgroundImage")));
             this.btn8.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn8.ButtonText = "Semester 8";
+            this.btn8.ButtonText = "SEMESTER 8";
             this.btn8.ButtonTextMarginLeft = 0;
             this.btn8.ColorContrastOnClick = 45;
             this.btn8.ColorContrastOnHover = 45;
@@ -607,8 +605,8 @@
             this.btn8.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn8.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn8.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn8.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn8.ForeColor = System.Drawing.Color.White;
+            this.btn8.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn8.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn8.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn8.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn8.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -648,7 +646,7 @@
             this.btn8.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn8.OnIdleState.BorderThickness = 1;
             this.btn8.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btn8.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btn8.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn8.OnIdleState.IconLeftImage = null;
             this.btn8.OnIdleState.IconRightImage = null;
             this.btn8.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -683,7 +681,7 @@
             this.btn7.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn7.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn7.BackgroundImage")));
             this.btn7.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn7.ButtonText = "Semester 7";
+            this.btn7.ButtonText = "SEMESTER 7";
             this.btn7.ButtonTextMarginLeft = 0;
             this.btn7.ColorContrastOnClick = 45;
             this.btn7.ColorContrastOnHover = 45;
@@ -699,8 +697,8 @@
             this.btn7.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn7.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn7.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn7.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn7.ForeColor = System.Drawing.Color.White;
+            this.btn7.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn7.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn7.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn7.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn7.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -740,7 +738,7 @@
             this.btn7.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn7.OnIdleState.BorderThickness = 1;
             this.btn7.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btn7.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btn7.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn7.OnIdleState.IconLeftImage = null;
             this.btn7.OnIdleState.IconRightImage = null;
             this.btn7.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -775,7 +773,7 @@
             this.btn6.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn6.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn6.BackgroundImage")));
             this.btn6.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn6.ButtonText = "Semester 6";
+            this.btn6.ButtonText = "SEMESTER 6";
             this.btn6.ButtonTextMarginLeft = 0;
             this.btn6.ColorContrastOnClick = 45;
             this.btn6.ColorContrastOnHover = 45;
@@ -791,8 +789,8 @@
             this.btn6.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn6.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn6.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn6.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn6.ForeColor = System.Drawing.Color.White;
+            this.btn6.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn6.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn6.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn6.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn6.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -832,7 +830,7 @@
             this.btn6.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn6.OnIdleState.BorderThickness = 1;
             this.btn6.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btn6.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btn6.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn6.OnIdleState.IconLeftImage = null;
             this.btn6.OnIdleState.IconRightImage = null;
             this.btn6.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -867,7 +865,7 @@
             this.btn5.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn5.BackgroundImage")));
             this.btn5.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn5.ButtonText = "Semester 5";
+            this.btn5.ButtonText = "SEMESTER 5";
             this.btn5.ButtonTextMarginLeft = 0;
             this.btn5.ColorContrastOnClick = 45;
             this.btn5.ColorContrastOnHover = 45;
@@ -883,8 +881,8 @@
             this.btn5.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn5.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn5.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn5.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn5.ForeColor = System.Drawing.Color.White;
+            this.btn5.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn5.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn5.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn5.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn5.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -924,7 +922,7 @@
             this.btn5.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn5.OnIdleState.BorderThickness = 1;
             this.btn5.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btn5.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btn5.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn5.OnIdleState.IconLeftImage = null;
             this.btn5.OnIdleState.IconRightImage = null;
             this.btn5.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -959,7 +957,7 @@
             this.btn4.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn4.BackgroundImage")));
             this.btn4.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn4.ButtonText = "Semester 4";
+            this.btn4.ButtonText = "SEMESTER 4";
             this.btn4.ButtonTextMarginLeft = 0;
             this.btn4.ColorContrastOnClick = 45;
             this.btn4.ColorContrastOnHover = 45;
@@ -975,8 +973,8 @@
             this.btn4.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn4.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn4.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn4.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn4.ForeColor = System.Drawing.Color.White;
+            this.btn4.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn4.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn4.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn4.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn4.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -1016,7 +1014,7 @@
             this.btn4.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn4.OnIdleState.BorderThickness = 1;
             this.btn4.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btn4.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btn4.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn4.OnIdleState.IconLeftImage = null;
             this.btn4.OnIdleState.IconRightImage = null;
             this.btn4.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -1051,7 +1049,7 @@
             this.btn3.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn3.BackgroundImage")));
             this.btn3.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn3.ButtonText = "Semester 3";
+            this.btn3.ButtonText = "SEMESTER 3";
             this.btn3.ButtonTextMarginLeft = 0;
             this.btn3.ColorContrastOnClick = 45;
             this.btn3.ColorContrastOnHover = 45;
@@ -1067,8 +1065,8 @@
             this.btn3.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn3.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn3.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn3.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn3.ForeColor = System.Drawing.Color.White;
+            this.btn3.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn3.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn3.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn3.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn3.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -1108,7 +1106,7 @@
             this.btn3.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn3.OnIdleState.BorderThickness = 1;
             this.btn3.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btn3.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btn3.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn3.OnIdleState.IconLeftImage = null;
             this.btn3.OnIdleState.IconRightImage = null;
             this.btn3.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -1143,7 +1141,7 @@
             this.btn2.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn2.BackgroundImage")));
             this.btn2.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn2.ButtonText = "Semester 2";
+            this.btn2.ButtonText = "SEMESTER 2";
             this.btn2.ButtonTextMarginLeft = 0;
             this.btn2.ColorContrastOnClick = 45;
             this.btn2.ColorContrastOnHover = 45;
@@ -1159,8 +1157,8 @@
             this.btn2.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn2.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn2.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn2.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn2.ForeColor = System.Drawing.Color.White;
+            this.btn2.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn2.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn2.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn2.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn2.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -1200,7 +1198,7 @@
             this.btn2.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn2.OnIdleState.BorderThickness = 1;
             this.btn2.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
-            this.btn2.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btn2.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn2.OnIdleState.IconLeftImage = null;
             this.btn2.OnIdleState.IconRightImage = null;
             this.btn2.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -1235,7 +1233,7 @@
             this.btn1.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.btn1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn1.BackgroundImage")));
             this.btn1.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn1.ButtonText = "Semester 1";
+            this.btn1.ButtonText = "SEMESTER 1";
             this.btn1.ButtonTextMarginLeft = 0;
             this.btn1.ColorContrastOnClick = 45;
             this.btn1.ColorContrastOnHover = 45;
@@ -1251,8 +1249,8 @@
             this.btn1.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
             this.btn1.Dock = System.Windows.Forms.DockStyle.Top;
             this.btn1.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
-            this.btn1.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.btn1.Font = new System.Drawing.Font("Consolas", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn1.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn1.IconLeftCursor = System.Windows.Forms.Cursors.Default;
             this.btn1.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
@@ -1292,7 +1290,7 @@
             this.btn1.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.btn1.OnIdleState.BorderThickness = 1;
             this.btn1.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.btn1.OnIdleState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.btn1.OnIdleState.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn1.OnIdleState.IconLeftImage = null;
             this.btn1.OnIdleState.IconRightImage = null;
             this.btn1.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
@@ -1316,8 +1314,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
-            this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.label2);
+            this.panel1.Controls.Add(this.label3);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.MinimumSize = new System.Drawing.Size(1, 0);
@@ -1329,23 +1327,24 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label3.Font = new System.Drawing.Font("Eurostile ExtendedTwo", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Trebuchet MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
-            this.label3.Location = new System.Drawing.Point(25, 39);
+            this.label3.Location = new System.Drawing.Point(29, 38);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(115, 21);
+            this.label3.Size = new System.Drawing.Size(108, 27);
             this.label3.TabIndex = 4;
             this.label3.Text = "Calculator";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label2.Font = new System.Drawing.Font("Couture", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Arial Black", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
-            this.label2.Location = new System.Drawing.Point(42, 15);
+            this.label2.Location = new System.Drawing.Point(39, 10);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(81, 24);
+            this.label2.Size = new System.Drawing.Size(88, 33);
             this.label2.TabIndex = 3;
             this.label2.Text = "CGPA";
             // 
@@ -1425,11 +1424,11 @@
             // 
             this.lblTotalHours.AutoSize = true;
             this.lblTotalHours.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblTotalHours.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTotalHours.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic);
             this.lblTotalHours.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
             this.lblTotalHours.Location = new System.Drawing.Point(952, 10);
             this.lblTotalHours.Name = "lblTotalHours";
-            this.lblTotalHours.Size = new System.Drawing.Size(35, 18);
+            this.lblTotalHours.Size = new System.Drawing.Size(36, 19);
             this.lblTotalHours.TabIndex = 26;
             this.lblTotalHours.Text = "###";
             // 
@@ -1437,11 +1436,11 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label7.Font = new System.Drawing.Font("LEMON MILK Light", 11.25F, System.Drawing.FontStyle.Italic);
+            this.label7.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic);
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
             this.label7.Location = new System.Drawing.Point(823, 9);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(136, 21);
+            this.label7.Size = new System.Drawing.Size(144, 19);
             this.label7.TabIndex = 25;
             this.label7.Text = "# Total Hours: ";
             // 
@@ -1464,6 +1463,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dgv1);
             this.Controls.Add(this.bunifuPanel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "frmMain";

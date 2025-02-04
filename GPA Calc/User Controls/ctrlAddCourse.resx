@@ -121,10 +121,10 @@
   <data name="btnAdd.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAHcAAAAsCAYAAABfcCe+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACVSURBVHhe7dGxDQIxAMDArEekzxxh5ozxA4BoYQKsK65x
-        6zHXPnM9X9TsM34jFeaGmRtmbpi5YeaGmRtmbpi5YeaGmRtmbpi5YeaGmRtmbpi5YeaGmRtmbpi5YeaG
-        mRtmbpi5YeaGmRtmbpi5YeaGmRtmbpi5YeaGmRtmbpi5YeaGmRtmbpi5YeaGjce17+/I//t8fQN3Iunx
-        bw09jwAAAABJRU5ErkJggg==
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACbSURBVHhe7dHBCcJAAADBFCIBz0Cq8J/eUqJlXAHKgVUM
+        +xjY/277cX4er+c3lvV1W3G972DW1+aimgtrLqy5sObCmgtrLqy5sObCmgtrLqy5sObCmgtrLqy5sObC
+        mgtrLqy5sObCmgtrLqy5sObCmgtrLqy5sObCmgtrLqy5sObCmgtrLqy5sObCmgtrLqy5sObC/nPHXBHN
+        mD/anj+IGKwbAgAAAABJRU5ErkJggg==
 </value>
   </data>
   <data name="txtCourseName.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
