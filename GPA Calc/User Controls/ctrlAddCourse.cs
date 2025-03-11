@@ -54,8 +54,8 @@ namespace GPA_Calc.User_Controls
             drpGrade.SelectedIndex = drpGrade.Items.IndexOf(CrsGrade);
             drpSemester.SelectedIndex = CrsSem - 1;
 
-            btnAdd.Text = "Update";
-            lblMain.Text = "Update Course";
+            btnAdd.Text = "Save";
+            lblMain.Text = "EDIT COURSE";
 
             
         }
@@ -132,6 +132,6 @@ namespace GPA_Calc.User_Controls
             }
         }
 
-        
+        private void btnClose_Click(object sender, EventArgs e) => this.ParentForm.Close();
     }
 }

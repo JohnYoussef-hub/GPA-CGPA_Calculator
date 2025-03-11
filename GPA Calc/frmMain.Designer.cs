@@ -33,22 +33,25 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges2 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges3 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges4 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges5 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges6 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges7 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges8 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges9 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges10 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges11 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges67 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges68 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges69 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges70 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges71 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges72 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges73 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges74 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges75 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges76 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges77 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
             this.dgv1 = new Bunifu.UI.WinForms.BunifuDataGridView();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.addCourseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.deleteCourseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.editCourseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.deleteCourseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
+            this.addCourseInformationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.showToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.label1 = new System.Windows.Forms.Label();
             this.lblGPA = new System.Windows.Forms.Label();
             this.lblCGPA = new System.Windows.Forms.Label();
@@ -56,6 +59,10 @@
             this.lblSemesterName = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.lblCoursesCount = new System.Windows.Forms.Label();
+            this.lblTotalHours = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.crclGPA = new Bunifu.UI.WinForms.BunifuCircleProgress();
+            this.crclCGPA = new Bunifu.UI.WinForms.BunifuCircleProgress();
             this.bunifuPanel1 = new Bunifu.UI.WinForms.BunifuPanel();
             this.btnAdd = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.btn10 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
@@ -69,12 +76,8 @@
             this.btn2 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.btn1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.crclGPA = new Bunifu.UI.WinForms.BunifuCircleProgress();
-            this.crclCGPA = new Bunifu.UI.WinForms.BunifuCircleProgress();
-            this.lblTotalHours = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgv1)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.bunifuPanel1.SuspendLayout();
@@ -139,51 +142,77 @@
             this.dgv1.Name = "dgv1";
             this.dgv1.ReadOnly = true;
             this.dgv1.RowHeadersVisible = false;
+            this.dgv1.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
             this.dgv1.RowTemplate.Height = 40;
             this.dgv1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgv1.Size = new System.Drawing.Size(817, 304);
+            this.dgv1.Size = new System.Drawing.Size(817, 323);
             this.dgv1.TabIndex = 12;
             this.dgv1.TabStop = false;
             this.dgv1.Theme = Bunifu.UI.WinForms.BunifuDataGridView.PresetThemes.Light;
             this.dgv1.RowsAdded += new System.Windows.Forms.DataGridViewRowsAddedEventHandler(this.dgv1_RowsAdded);
             this.dgv1.RowsRemoved += new System.Windows.Forms.DataGridViewRowsRemovedEventHandler(this.dgv1_RowsRemoved);
+            this.dgv1.DoubleClick += new System.EventHandler(this.dgv1_DoubleClick);
             // 
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.addCourseToolStripMenuItem,
+            this.editCourseToolStripMenuItem,
             this.deleteCourseToolStripMenuItem,
-            this.editCourseToolStripMenuItem});
+            this.toolStripMenuItem1,
+            this.addCourseInformationToolStripMenuItem,
+            this.showToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(148, 70);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(228, 120);
             this.contextMenuStrip1.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip1_Opening);
             // 
             // addCourseToolStripMenuItem
             // 
             this.addCourseToolStripMenuItem.Image = global::GPA_CGPA_Calculator.Properties.Resources.plus;
             this.addCourseToolStripMenuItem.Name = "addCourseToolStripMenuItem";
-            this.addCourseToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.addCourseToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.addCourseToolStripMenuItem.Text = "Add Course";
             this.addCourseToolStripMenuItem.ToolTipText = "press CTRL + A";
             this.addCourseToolStripMenuItem.Click += new System.EventHandler(this.btnAdd_Click);
-            // 
-            // deleteCourseToolStripMenuItem
-            // 
-            this.deleteCourseToolStripMenuItem.Image = global::GPA_CGPA_Calculator.Properties.Resources.bin;
-            this.deleteCourseToolStripMenuItem.Name = "deleteCourseToolStripMenuItem";
-            this.deleteCourseToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
-            this.deleteCourseToolStripMenuItem.Text = "Delete Course";
-            this.deleteCourseToolStripMenuItem.ToolTipText = "press Delete";
-            this.deleteCourseToolStripMenuItem.Click += new System.EventHandler(this.deleteCourseToolStripMenuItem_Click);
             // 
             // editCourseToolStripMenuItem
             // 
             this.editCourseToolStripMenuItem.Image = global::GPA_CGPA_Calculator.Properties.Resources.pen;
             this.editCourseToolStripMenuItem.Name = "editCourseToolStripMenuItem";
-            this.editCourseToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.editCourseToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.editCourseToolStripMenuItem.Text = "Edit Course";
             this.editCourseToolStripMenuItem.ToolTipText = "press F2";
             this.editCourseToolStripMenuItem.Click += new System.EventHandler(this.editCourseToolStripMenuItem_Click);
+            // 
+            // deleteCourseToolStripMenuItem
+            // 
+            this.deleteCourseToolStripMenuItem.Image = global::GPA_CGPA_Calculator.Properties.Resources.bin;
+            this.deleteCourseToolStripMenuItem.Name = "deleteCourseToolStripMenuItem";
+            this.deleteCourseToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
+            this.deleteCourseToolStripMenuItem.Text = "Delete Course";
+            this.deleteCourseToolStripMenuItem.ToolTipText = "press Delete";
+            this.deleteCourseToolStripMenuItem.Click += new System.EventHandler(this.deleteCourseToolStripMenuItem_Click);
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(224, 6);
+            // 
+            // addCourseInformationToolStripMenuItem
+            // 
+            this.addCourseInformationToolStripMenuItem.Image = global::GPA_CGPA_Calculator.Properties.Resources.info__1_;
+            this.addCourseInformationToolStripMenuItem.Name = "addCourseInformationToolStripMenuItem";
+            this.addCourseInformationToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
+            this.addCourseInformationToolStripMenuItem.Text = "Add/Edit Course Information";
+            this.addCourseInformationToolStripMenuItem.Click += new System.EventHandler(this.addCourseInformationToolStripMenuItem_Click);
+            // 
+            // showToolStripMenuItem
+            // 
+            this.showToolStripMenuItem.Image = global::GPA_CGPA_Calculator.Properties.Resources.showInfo;
+            this.showToolStripMenuItem.Name = "showToolStripMenuItem";
+            this.showToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
+            this.showToolStripMenuItem.Text = "Show Course Information";
+            this.showToolStripMenuItem.Click += new System.EventHandler(this.showToolStripMenuItem_Click);
             // 
             // label1
             // 
@@ -191,8 +220,8 @@
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
             this.label1.Cursor = System.Windows.Forms.Cursors.Default;
             this.label1.Font = new System.Drawing.Font("Arial Black", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
-            this.label1.Location = new System.Drawing.Point(281, 373);
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(75)))), ((int)(((byte)(75)))));
+            this.label1.Location = new System.Drawing.Point(287, 389);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(114, 45);
             this.label1.TabIndex = 5;
@@ -203,26 +232,26 @@
             this.lblGPA.AutoSize = true;
             this.lblGPA.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
             this.lblGPA.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblGPA.Font = new System.Drawing.Font("Consolas", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
-            this.lblGPA.Location = new System.Drawing.Point(380, 376);
+            this.lblGPA.Font = new System.Drawing.Font("Franklin Gothic Demi", 30.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(40)))), ((int)(((byte)(50)))));
+            this.lblGPA.Location = new System.Drawing.Point(379, 389);
             this.lblGPA.Name = "lblGPA";
-            this.lblGPA.Size = new System.Drawing.Size(79, 43);
+            this.lblGPA.Size = new System.Drawing.Size(127, 48);
             this.lblGPA.TabIndex = 18;
-            this.lblGPA.Text = "###";
+            this.lblGPA.Text = "3.509";
             // 
             // lblCGPA
             // 
             this.lblCGPA.AutoSize = true;
             this.lblCGPA.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
             this.lblCGPA.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblCGPA.Font = new System.Drawing.Font("Consolas", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
-            this.lblCGPA.Location = new System.Drawing.Point(761, 376);
+            this.lblCGPA.Font = new System.Drawing.Font("Franklin Gothic Demi", 30.75F, System.Drawing.FontStyle.Italic);
+            this.lblCGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(40)))), ((int)(((byte)(50)))));
+            this.lblCGPA.Location = new System.Drawing.Point(737, 389);
             this.lblCGPA.Name = "lblCGPA";
-            this.lblCGPA.Size = new System.Drawing.Size(79, 43);
+            this.lblCGPA.Size = new System.Drawing.Size(151, 48);
             this.lblCGPA.TabIndex = 20;
-            this.lblCGPA.Text = "###";
+            this.lblCGPA.Text = "3.5569";
             // 
             // label5
             // 
@@ -230,8 +259,8 @@
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
             this.label5.Cursor = System.Windows.Forms.Cursors.Default;
             this.label5.Font = new System.Drawing.Font("Arial Black", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(35)))), ((int)(((byte)(33)))));
-            this.label5.Location = new System.Drawing.Point(640, 373);
+            this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(75)))), ((int)(((byte)(75)))));
+            this.label5.Location = new System.Drawing.Point(618, 389);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(139, 45);
             this.label5.TabIndex = 19;
@@ -241,11 +270,11 @@
             // 
             this.lblSemesterName.AutoSize = true;
             this.lblSemesterName.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblSemesterName.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSemesterName.Font = new System.Drawing.Font("Franklin Gothic Demi", 12F, System.Drawing.FontStyle.Italic);
             this.lblSemesterName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
             this.lblSemesterName.Location = new System.Drawing.Point(213, 12);
             this.lblSemesterName.Name = "lblSemesterName";
-            this.lblSemesterName.Size = new System.Drawing.Size(36, 19);
+            this.lblSemesterName.Size = new System.Drawing.Size(37, 21);
             this.lblSemesterName.TabIndex = 5;
             this.lblSemesterName.Text = "###";
             // 
@@ -253,11 +282,11 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label6.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic);
+            this.label6.Font = new System.Drawing.Font("Franklin Gothic Demi", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
-            this.label6.Location = new System.Drawing.Point(684, 9);
+            this.label6.Location = new System.Drawing.Point(731, 9);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(108, 19);
+            this.label6.Size = new System.Drawing.Size(87, 21);
             this.label6.TabIndex = 22;
             this.label6.Text = "# Courses: ";
             // 
@@ -265,13 +294,109 @@
             // 
             this.lblCoursesCount.AutoSize = true;
             this.lblCoursesCount.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblCoursesCount.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic);
+            this.lblCoursesCount.Font = new System.Drawing.Font("Trebuchet MS", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCoursesCount.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
-            this.lblCoursesCount.Location = new System.Drawing.Point(779, 10);
+            this.lblCoursesCount.Location = new System.Drawing.Point(811, 8);
             this.lblCoursesCount.Name = "lblCoursesCount";
-            this.lblCoursesCount.Size = new System.Drawing.Size(36, 19);
+            this.lblCoursesCount.Size = new System.Drawing.Size(37, 22);
             this.lblCoursesCount.TabIndex = 23;
             this.lblCoursesCount.Text = "###";
+            // 
+            // lblTotalHours
+            // 
+            this.lblTotalHours.AutoSize = true;
+            this.lblTotalHours.Cursor = System.Windows.Forms.Cursors.Default;
+            this.lblTotalHours.Font = new System.Drawing.Font("Trebuchet MS", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTotalHours.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
+            this.lblTotalHours.Location = new System.Drawing.Point(950, 8);
+            this.lblTotalHours.Name = "lblTotalHours";
+            this.lblTotalHours.Size = new System.Drawing.Size(37, 22);
+            this.lblTotalHours.TabIndex = 26;
+            this.lblTotalHours.Text = "###";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label7.Font = new System.Drawing.Font("Franklin Gothic Demi", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
+            this.label7.Location = new System.Drawing.Point(847, 9);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(112, 21);
+            this.label7.TabIndex = 25;
+            this.label7.Text = "# Total Hours: ";
+            // 
+            // crclGPA
+            // 
+            this.crclGPA.Animated = false;
+            this.crclGPA.AnimationInterval = 1;
+            this.crclGPA.AnimationSpeed = 1;
+            this.crclGPA.BackColor = System.Drawing.Color.Transparent;
+            this.crclGPA.CircleMargin = 10;
+            this.crclGPA.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F, System.Drawing.FontStyle.Bold);
+            this.crclGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.crclGPA.IsPercentage = true;
+            this.crclGPA.LineProgressThickness = 20;
+            this.crclGPA.LineThickness = 17;
+            this.crclGPA.Location = new System.Drawing.Point(310, 450);
+            this.crclGPA.Name = "crclGPA";
+            this.crclGPA.ProgressAnimationSpeed = 580;
+            this.crclGPA.ProgressBackColor = System.Drawing.Color.Gainsboro;
+            this.crclGPA.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(75)))), ((int)(((byte)(75)))));
+            this.crclGPA.ProgressColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(75)))), ((int)(((byte)(75)))));
+            this.crclGPA.ProgressEndCap = Bunifu.UI.WinForms.BunifuCircleProgress.CapStyles.Round;
+            this.crclGPA.ProgressFillStyle = Bunifu.UI.WinForms.BunifuCircleProgress.FillStyles.Solid;
+            this.crclGPA.ProgressStartCap = Bunifu.UI.WinForms.BunifuCircleProgress.CapStyles.Round;
+            this.crclGPA.SecondaryFont = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.crclGPA.Size = new System.Drawing.Size(191, 191);
+            this.crclGPA.SubScriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
+            this.crclGPA.SubScriptMargin = new System.Windows.Forms.Padding(5, -20, 0, 0);
+            this.crclGPA.SubScriptText = ".00";
+            this.crclGPA.SuperScriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
+            this.crclGPA.SuperScriptMargin = new System.Windows.Forms.Padding(5, 50, 0, 0);
+            this.crclGPA.SuperScriptText = "%";
+            this.crclGPA.TabIndex = 16;
+            this.crclGPA.Text = "30";
+            this.crclGPA.TextMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
+            this.crclGPA.Value = 30;
+            this.crclGPA.ValueByTransition = 30;
+            this.crclGPA.ValueMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
+            // 
+            // crclCGPA
+            // 
+            this.crclCGPA.Animated = false;
+            this.crclCGPA.AnimationInterval = 1;
+            this.crclCGPA.AnimationSpeed = 1;
+            this.crclCGPA.BackColor = System.Drawing.Color.Transparent;
+            this.crclCGPA.CircleMargin = 10;
+            this.crclCGPA.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F, System.Drawing.FontStyle.Bold);
+            this.crclCGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.crclCGPA.IsPercentage = true;
+            this.crclCGPA.LineProgressThickness = 20;
+            this.crclCGPA.LineThickness = 17;
+            this.crclCGPA.Location = new System.Drawing.Point(667, 450);
+            this.crclCGPA.Name = "crclCGPA";
+            this.crclCGPA.ProgressAnimationSpeed = 580;
+            this.crclCGPA.ProgressBackColor = System.Drawing.Color.Gainsboro;
+            this.crclCGPA.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(75)))), ((int)(((byte)(75)))));
+            this.crclCGPA.ProgressColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(75)))), ((int)(((byte)(75)))));
+            this.crclCGPA.ProgressEndCap = Bunifu.UI.WinForms.BunifuCircleProgress.CapStyles.Round;
+            this.crclCGPA.ProgressFillStyle = Bunifu.UI.WinForms.BunifuCircleProgress.FillStyles.Solid;
+            this.crclCGPA.ProgressStartCap = Bunifu.UI.WinForms.BunifuCircleProgress.CapStyles.Round;
+            this.crclCGPA.SecondaryFont = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.crclCGPA.Size = new System.Drawing.Size(191, 191);
+            this.crclCGPA.SubScriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
+            this.crclCGPA.SubScriptMargin = new System.Windows.Forms.Padding(5, -20, 0, 0);
+            this.crclCGPA.SubScriptText = ".00";
+            this.crclCGPA.SuperScriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
+            this.crclCGPA.SuperScriptMargin = new System.Windows.Forms.Padding(5, 50, 0, 0);
+            this.crclCGPA.SuperScriptText = "%";
+            this.crclCGPA.TabIndex = 27;
+            this.crclCGPA.Text = "30";
+            this.crclCGPA.TextMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
+            this.crclCGPA.Value = 30;
+            this.crclCGPA.ValueByTransition = 30;
+            this.crclCGPA.ValueMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
             // 
             // bunifuPanel1
             // 
@@ -320,11 +445,11 @@
             this.btnAdd.ColorContrastOnClick = 45;
             this.btnAdd.ColorContrastOnHover = 45;
             this.btnAdd.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges1.BottomLeft = true;
-            borderEdges1.BottomRight = true;
-            borderEdges1.TopLeft = true;
-            borderEdges1.TopRight = true;
-            this.btnAdd.CustomizableEdges = borderEdges1;
+            borderEdges67.BottomLeft = true;
+            borderEdges67.BottomRight = true;
+            borderEdges67.TopLeft = true;
+            borderEdges67.TopRight = true;
+            this.btnAdd.CustomizableEdges = borderEdges67;
             this.btnAdd.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btnAdd.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnAdd.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -405,16 +530,16 @@
             this.btn10.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(78)))), ((int)(((byte)(105)))));
             this.btn10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn10.BackgroundImage")));
             this.btn10.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
-            this.btn10.ButtonText = "SEMESTER 10";
+            this.btn10.ButtonText = "SEMESTER 1O";
             this.btn10.ButtonTextMarginLeft = 0;
             this.btn10.ColorContrastOnClick = 45;
             this.btn10.ColorContrastOnHover = 45;
             this.btn10.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges2.BottomLeft = true;
-            borderEdges2.BottomRight = true;
-            borderEdges2.TopLeft = true;
-            borderEdges2.TopRight = true;
-            this.btn10.CustomizableEdges = borderEdges2;
+            borderEdges68.BottomLeft = true;
+            borderEdges68.BottomRight = true;
+            borderEdges68.TopLeft = true;
+            borderEdges68.TopRight = true;
+            this.btn10.CustomizableEdges = borderEdges68;
             this.btn10.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn10.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn10.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -502,11 +627,11 @@
             this.btn9.ColorContrastOnClick = 45;
             this.btn9.ColorContrastOnHover = 45;
             this.btn9.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges3.BottomLeft = true;
-            borderEdges3.BottomRight = true;
-            borderEdges3.TopLeft = true;
-            borderEdges3.TopRight = true;
-            this.btn9.CustomizableEdges = borderEdges3;
+            borderEdges69.BottomLeft = true;
+            borderEdges69.BottomRight = true;
+            borderEdges69.TopLeft = true;
+            borderEdges69.TopRight = true;
+            this.btn9.CustomizableEdges = borderEdges69;
             this.btn9.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn9.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn9.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -594,11 +719,11 @@
             this.btn8.ColorContrastOnClick = 45;
             this.btn8.ColorContrastOnHover = 45;
             this.btn8.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges4.BottomLeft = true;
-            borderEdges4.BottomRight = true;
-            borderEdges4.TopLeft = true;
-            borderEdges4.TopRight = true;
-            this.btn8.CustomizableEdges = borderEdges4;
+            borderEdges70.BottomLeft = true;
+            borderEdges70.BottomRight = true;
+            borderEdges70.TopLeft = true;
+            borderEdges70.TopRight = true;
+            this.btn8.CustomizableEdges = borderEdges70;
             this.btn8.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn8.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn8.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -686,11 +811,11 @@
             this.btn7.ColorContrastOnClick = 45;
             this.btn7.ColorContrastOnHover = 45;
             this.btn7.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges5.BottomLeft = true;
-            borderEdges5.BottomRight = true;
-            borderEdges5.TopLeft = true;
-            borderEdges5.TopRight = true;
-            this.btn7.CustomizableEdges = borderEdges5;
+            borderEdges71.BottomLeft = true;
+            borderEdges71.BottomRight = true;
+            borderEdges71.TopLeft = true;
+            borderEdges71.TopRight = true;
+            this.btn7.CustomizableEdges = borderEdges71;
             this.btn7.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn7.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn7.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -778,11 +903,11 @@
             this.btn6.ColorContrastOnClick = 45;
             this.btn6.ColorContrastOnHover = 45;
             this.btn6.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges6.BottomLeft = true;
-            borderEdges6.BottomRight = true;
-            borderEdges6.TopLeft = true;
-            borderEdges6.TopRight = true;
-            this.btn6.CustomizableEdges = borderEdges6;
+            borderEdges72.BottomLeft = true;
+            borderEdges72.BottomRight = true;
+            borderEdges72.TopLeft = true;
+            borderEdges72.TopRight = true;
+            this.btn6.CustomizableEdges = borderEdges72;
             this.btn6.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn6.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn6.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -870,11 +995,11 @@
             this.btn5.ColorContrastOnClick = 45;
             this.btn5.ColorContrastOnHover = 45;
             this.btn5.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges7.BottomLeft = true;
-            borderEdges7.BottomRight = true;
-            borderEdges7.TopLeft = true;
-            borderEdges7.TopRight = true;
-            this.btn5.CustomizableEdges = borderEdges7;
+            borderEdges73.BottomLeft = true;
+            borderEdges73.BottomRight = true;
+            borderEdges73.TopLeft = true;
+            borderEdges73.TopRight = true;
+            this.btn5.CustomizableEdges = borderEdges73;
             this.btn5.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn5.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn5.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -962,11 +1087,11 @@
             this.btn4.ColorContrastOnClick = 45;
             this.btn4.ColorContrastOnHover = 45;
             this.btn4.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges8.BottomLeft = true;
-            borderEdges8.BottomRight = true;
-            borderEdges8.TopLeft = true;
-            borderEdges8.TopRight = true;
-            this.btn4.CustomizableEdges = borderEdges8;
+            borderEdges74.BottomLeft = true;
+            borderEdges74.BottomRight = true;
+            borderEdges74.TopLeft = true;
+            borderEdges74.TopRight = true;
+            this.btn4.CustomizableEdges = borderEdges74;
             this.btn4.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn4.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn4.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -1054,11 +1179,11 @@
             this.btn3.ColorContrastOnClick = 45;
             this.btn3.ColorContrastOnHover = 45;
             this.btn3.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges9.BottomLeft = true;
-            borderEdges9.BottomRight = true;
-            borderEdges9.TopLeft = true;
-            borderEdges9.TopRight = true;
-            this.btn3.CustomizableEdges = borderEdges9;
+            borderEdges75.BottomLeft = true;
+            borderEdges75.BottomRight = true;
+            borderEdges75.TopLeft = true;
+            borderEdges75.TopRight = true;
+            this.btn3.CustomizableEdges = borderEdges75;
             this.btn3.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn3.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn3.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -1146,11 +1271,11 @@
             this.btn2.ColorContrastOnClick = 45;
             this.btn2.ColorContrastOnHover = 45;
             this.btn2.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges10.BottomLeft = true;
-            borderEdges10.BottomRight = true;
-            borderEdges10.TopLeft = true;
-            borderEdges10.TopRight = true;
-            this.btn2.CustomizableEdges = borderEdges10;
+            borderEdges76.BottomLeft = true;
+            borderEdges76.BottomRight = true;
+            borderEdges76.TopLeft = true;
+            borderEdges76.TopRight = true;
+            this.btn2.CustomizableEdges = borderEdges76;
             this.btn2.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn2.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn2.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -1238,11 +1363,11 @@
             this.btn1.ColorContrastOnClick = 45;
             this.btn1.ColorContrastOnHover = 45;
             this.btn1.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges11.BottomLeft = true;
-            borderEdges11.BottomRight = true;
-            borderEdges11.TopLeft = true;
-            borderEdges11.TopRight = true;
-            this.btn1.CustomizableEdges = borderEdges11;
+            borderEdges77.BottomLeft = true;
+            borderEdges77.BottomRight = true;
+            borderEdges77.TopLeft = true;
+            borderEdges77.TopRight = true;
+            this.btn1.CustomizableEdges = borderEdges77;
             this.btn1.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn1.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btn1.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -1323,146 +1448,49 @@
             this.panel1.Size = new System.Drawing.Size(168, 79);
             this.panel1.TabIndex = 0;
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label3.Font = new System.Drawing.Font("Trebuchet MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
-            this.label3.Location = new System.Drawing.Point(29, 38);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(108, 27);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "Calculator";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
-            // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label2.Font = new System.Drawing.Font("Arial Black", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Arial Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
-            this.label2.Location = new System.Drawing.Point(39, 10);
+            this.label2.Location = new System.Drawing.Point(19, 14);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 33);
+            this.label2.Size = new System.Drawing.Size(130, 27);
             this.label2.TabIndex = 3;
-            this.label2.Text = "CGPA";
+            this.label2.Text = "GPA / CGPA";
             // 
-            // crclGPA
+            // label3
             // 
-            this.crclGPA.Animated = false;
-            this.crclGPA.AnimationInterval = 1;
-            this.crclGPA.AnimationSpeed = 1;
-            this.crclGPA.BackColor = System.Drawing.Color.Transparent;
-            this.crclGPA.CircleMargin = 10;
-            this.crclGPA.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F, System.Drawing.FontStyle.Bold);
-            this.crclGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.crclGPA.IsPercentage = true;
-            this.crclGPA.LineProgressThickness = 18;
-            this.crclGPA.LineThickness = 15;
-            this.crclGPA.Location = new System.Drawing.Point(305, 447);
-            this.crclGPA.Name = "crclGPA";
-            this.crclGPA.ProgressAnimationSpeed = 590;
-            this.crclGPA.ProgressBackColor = System.Drawing.Color.Gainsboro;
-            this.crclGPA.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(58)))), ((int)(((byte)(64)))));
-            this.crclGPA.ProgressColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(58)))), ((int)(((byte)(64)))));
-            this.crclGPA.ProgressEndCap = Bunifu.UI.WinForms.BunifuCircleProgress.CapStyles.Round;
-            this.crclGPA.ProgressFillStyle = Bunifu.UI.WinForms.BunifuCircleProgress.FillStyles.Solid;
-            this.crclGPA.ProgressStartCap = Bunifu.UI.WinForms.BunifuCircleProgress.CapStyles.Round;
-            this.crclGPA.SecondaryFont = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.crclGPA.Size = new System.Drawing.Size(184, 184);
-            this.crclGPA.SubScriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
-            this.crclGPA.SubScriptMargin = new System.Windows.Forms.Padding(5, -20, 0, 0);
-            this.crclGPA.SubScriptText = ".00";
-            this.crclGPA.SuperScriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
-            this.crclGPA.SuperScriptMargin = new System.Windows.Forms.Padding(5, 50, 0, 0);
-            this.crclGPA.SuperScriptText = "%";
-            this.crclGPA.TabIndex = 16;
-            this.crclGPA.Text = "30";
-            this.crclGPA.TextMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
-            this.crclGPA.Value = 30;
-            this.crclGPA.ValueByTransition = 30;
-            this.crclGPA.ValueMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
-            // 
-            // crclCGPA
-            // 
-            this.crclCGPA.Animated = false;
-            this.crclCGPA.AnimationInterval = 1;
-            this.crclCGPA.AnimationSpeed = 1;
-            this.crclCGPA.BackColor = System.Drawing.Color.Transparent;
-            this.crclCGPA.CircleMargin = 10;
-            this.crclCGPA.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F, System.Drawing.FontStyle.Bold);
-            this.crclCGPA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.crclCGPA.IsPercentage = true;
-            this.crclCGPA.LineProgressThickness = 18;
-            this.crclCGPA.LineThickness = 15;
-            this.crclCGPA.Location = new System.Drawing.Point(688, 447);
-            this.crclCGPA.Name = "crclCGPA";
-            this.crclCGPA.ProgressAnimationSpeed = 590;
-            this.crclCGPA.ProgressBackColor = System.Drawing.Color.Gainsboro;
-            this.crclCGPA.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(58)))), ((int)(((byte)(64)))));
-            this.crclCGPA.ProgressColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(58)))), ((int)(((byte)(64)))));
-            this.crclCGPA.ProgressEndCap = Bunifu.UI.WinForms.BunifuCircleProgress.CapStyles.Round;
-            this.crclCGPA.ProgressFillStyle = Bunifu.UI.WinForms.BunifuCircleProgress.FillStyles.Solid;
-            this.crclCGPA.ProgressStartCap = Bunifu.UI.WinForms.BunifuCircleProgress.CapStyles.Round;
-            this.crclCGPA.SecondaryFont = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.crclCGPA.Size = new System.Drawing.Size(184, 184);
-            this.crclCGPA.SubScriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
-            this.crclCGPA.SubScriptMargin = new System.Windows.Forms.Padding(5, -20, 0, 0);
-            this.crclCGPA.SubScriptText = ".00";
-            this.crclCGPA.SuperScriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
-            this.crclCGPA.SuperScriptMargin = new System.Windows.Forms.Padding(5, 50, 0, 0);
-            this.crclCGPA.SuperScriptText = "%";
-            this.crclCGPA.TabIndex = 24;
-            this.crclCGPA.Text = "30";
-            this.crclCGPA.TextMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
-            this.crclCGPA.Value = 30;
-            this.crclCGPA.ValueByTransition = 30;
-            this.crclCGPA.ValueMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
-            // 
-            // lblTotalHours
-            // 
-            this.lblTotalHours.AutoSize = true;
-            this.lblTotalHours.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblTotalHours.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic);
-            this.lblTotalHours.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
-            this.lblTotalHours.Location = new System.Drawing.Point(952, 10);
-            this.lblTotalHours.Name = "lblTotalHours";
-            this.lblTotalHours.Size = new System.Drawing.Size(36, 19);
-            this.lblTotalHours.TabIndex = 26;
-            this.lblTotalHours.Text = "###";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label7.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Italic);
-            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(27)))), ((int)(((byte)(42)))));
-            this.label7.Location = new System.Drawing.Point(823, 9);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(144, 19);
-            this.label7.TabIndex = 25;
-            this.label7.Text = "# Total Hours: ";
+            this.label3.AutoSize = true;
+            this.label3.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label3.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
+            this.label3.Location = new System.Drawing.Point(35, 37);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(97, 24);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Calculator";
             // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(243)))), ((int)(((byte)(238)))));
-            this.ClientSize = new System.Drawing.Size(1038, 677);
-            this.Controls.Add(this.lblTotalHours);
-            this.Controls.Add(this.label7);
+            this.ClientSize = new System.Drawing.Size(1032, 677);
             this.Controls.Add(this.crclCGPA);
             this.Controls.Add(this.crclGPA);
+            this.Controls.Add(this.lblTotalHours);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.lblCoursesCount);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.lblSemesterName);
             this.Controls.Add(this.lblCGPA);
-            this.Controls.Add(this.label5);
             this.Controls.Add(this.lblGPA);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.dgv1);
             this.Controls.Add(this.bunifuPanel1);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
@@ -1508,10 +1536,13 @@
         private System.Windows.Forms.Label lblCoursesCount;
         private System.Windows.Forms.ToolStripMenuItem addCourseToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem editCourseToolStripMenuItem;
-        private Bunifu.UI.WinForms.BunifuCircleProgress crclGPA;
-        private Bunifu.UI.WinForms.BunifuCircleProgress crclCGPA;
         private System.Windows.Forms.Label lblTotalHours;
         private System.Windows.Forms.Label label7;
+        private Bunifu.UI.WinForms.BunifuCircleProgress crclGPA;
+        private Bunifu.UI.WinForms.BunifuCircleProgress crclCGPA;
+        private System.Windows.Forms.ToolStripSeparator toolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem addCourseInformationToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem showToolStripMenuItem;
     }
 }
 

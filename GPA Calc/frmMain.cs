@@ -1,16 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using Bunifu.Framework.UI;
-using Bunifu.UI.WinForms;
 using Bunifu.UI.WinForms.BunifuButton;
 using BusinessLayer;
+using GPA_CGPA_Calculator;
 
 namespace GPA_Calc
 {
@@ -29,11 +24,13 @@ namespace GPA_Calc
         private void RefreshData(BunifuButton btn)
         {
             dgv1.DataSource = BusinessLayer.clsApp.GetCoursesBySemester(Convert.ToInt32(btn.Tag));
+            dgv1.Columns["CourseID"].Visible = false;
         }
 
         private void RefreshData(int sem)
         {
             dgv1.DataSource = BusinessLayer.clsApp.GetCoursesBySemester(sem);
+            dgv1.Columns["CourseID"].Visible = false;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -219,9 +216,37 @@ namespace GPA_Calc
             }
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void dgv1_DoubleClick(object sender, EventArgs e)
         {
+            editCourseToolStripMenuItem_Click(sender, e);
+        }
 
+        private void addCourseInformationToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if(dgv1.SelectedRows.Count > 0)
+            {
+                int CourseID = Convert.ToInt32(dgv1.SelectedRows[0].Cells["CourseID"].Value);
+                frmCourseInformation frm = new frmCourseInformation(CourseID);
+                frm.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Please select a course to view information", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void showToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if(dgv1.SelectedRows.Count > 0)
+            {
+                int CourseID = Convert.ToInt32(dgv1.SelectedRows[0].Cells["CourseID"].Value);
+                frmShowCourseInfo frm = new frmShowCourseInfo(CourseID);
+                frm.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Please select a course to view information", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }
