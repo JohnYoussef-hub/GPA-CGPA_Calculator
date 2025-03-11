@@ -20,23 +20,22 @@ The **GPA Calculator** is a desktop application designed to help students manage
 ## GPA System Used
 **This app uses the 4.0 GPA scale**, which is the most common system. Here’s how it works:
 
-- **A = 4.0**: Excellent performance  
+- **A  = 4.0**: Excellent performance  
 - **A- = 3.67**  
 - **B+ = 3.3**  
-- **B = 3.0**: Good performance  
+- **B  = 3.0**: Good performance  
 - **B- = 2.67**  
 - **C+ = 2.3**  
-- **C = 2.0**: Average performance  
+- **C  = 2.0**: Average performance  
 - **C- = 1.67**  
 - **D+ = 1.3**  
-- **D = 1.0**: Below average performance  
-- **F = 0.0**: Fail
+- **D  = 1.0**: Below average performance  
+- **F  = 0.0**: Fail
 
 ## How to download
-You can download the latest version of the GPA Calculator app from the **Releases** section. Simply, download the ZIP file, and then extract it.
-- **For the best experience:** install the fonts in the Fonts folder above
+You can download the latest version of the GPA Calculator app from the **Releases** section. Simply, download the setup.exe file, and then run it.
 
-### **--Warning--**: You may see a **SmartScreen warning** when running the app for the **first time**. This is expected for new applications.. click "More info" then "Run anyway". don't worry, **it is completely safe to proceed**.
+### **--Warning--: When downloading the app, your browser or antivirus software may flag it as a virus. This is a false positive due to the app being new and not widely recognized yet. You can safely ignore the warning and proceed with the download.**
 
 
 
