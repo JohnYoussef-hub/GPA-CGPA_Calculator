@@ -33,7 +33,7 @@ The **GPA Calculator** is a desktop application designed to help students manage
 - **F  = 0.0**: Fail
 
 ## How to download
-You can download the latest version of the GPA Calculator app from the **Releases** section. Simply, download the setup.exe file, and then run it.
+You can download the latest version of the GPA Calculator app from the **Releases** section. Simply, download the `zip` file, and then extract it.
 
 ### **--Warning--: When downloading the app, your browser or antivirus software may flag it as a virus. This is a false positive due to the app being new and not widely recognized yet. You can safely ignore the warning and proceed with the download.**
 
